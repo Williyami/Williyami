@@ -43,7 +43,7 @@
 
 # William Eklund
 
-**Head of Business** @ UU AI Society · BSc Business & Economics, Uppsala University
+**Intern** @ Morningstar · **Equity Research Analyst** @ UEAM · **Head of Business** @ UU AI Society · BSc Business & Economics, Uppsala University
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williameklund/)
 
@@ -59,8 +59,9 @@ Business side (events & partnerships) at UU AI Society, where I work on connecti
 with Uppsala's AI-focused student community.
 
 - 🎓 BSc Business & Economics, Uppsala University
+- 📊 Equity Research Analyst, UEAM
 - 💼 Head of Business, UU AI Society
-- 📊 Intern, Morningstar Sweden (Sustainalytics)
+- 📊 Intern, Morningstar
 - 📍 Based in Sweden
 
 ### What I'm Into
