@@ -16,6 +16,9 @@ jobs:
       - uses: Platane/snk@v3.5.0
         with:
           github_user_name: ${{ github.repository_owner }}
+          # GITHUB_TOKEN only sees public contributions. Add a SNAKE_TOKEN
+          # secret (classic PAT, read:user) to include private ones.
+          github_token: ${{ secrets.SNAKE_TOKEN || github.token }}
           outputs: |
             dist/github-snake.svg?palette=github-light
             dist/github-snake-dark.svg?palette=github-dark
