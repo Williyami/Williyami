@@ -53,7 +53,7 @@
 ### About Me
 
 I'm a Business & Economics student at Uppsala University (Corporate Finance specialization,
-graduating 2027), currently interning at Morningstar Sweden (Sustainalytics). I lead the
+graduating 2027), currently interning at Morningstar. I lead the
 Business side (events & partnerships) at UU AI Society, where I work on connecting companies
 with Uppsala's AI-focused student community.
 
